@@ -1,1 +1,3 @@
-["Peanut", "Apple", "Mango", "Orange", "Sugar"]
+{
+ "fruits": ["Pea", "Apple", "Mango", "Orange", "Sugar"] 
+}
